@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PRX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PRX_jar</output-path>
+    <root id="archive" name="PRX.jar">
+      <element id="module-output" name="PRX" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Máy tính/jdom-2.0.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
