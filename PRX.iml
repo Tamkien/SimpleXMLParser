@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/OneDrive/Máy tính/jdom-2.0.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Program Files/Java/jdk1.8.0_241/lib/jdom-2.0.6.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
